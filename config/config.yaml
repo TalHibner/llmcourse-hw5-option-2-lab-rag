@@ -25,19 +25,25 @@ vector_store:
 # Experiment Configuration
 experiments:
   random_seed: 42
-  n_runs: 5
+  n_runs: 10  # Number of repetitions for statistical validity
 
   experiment1:
+    name: "Context Window Position Effects"
     n_facts: 25
     position_categories: [beginning, middle, end]
+    positions_to_test: [0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]  # Normalized positions
 
   experiment2:
+    name: "Noise Impact on Accuracy"
     n_core_facts: 10
-    noise_levels: [0.0, 0.2, 0.4, 0.6, 0.8, 0.9]
+    noise_levels: [0.0, 0.2, 0.4, 0.6, 0.8, 0.9, 0.95]
     n_noise_pool: 100
 
   experiment3:
-    top_k_values: [1, 3, 5, 10]
+    name: "RAG Solution Performance"
+    n_test_facts: 15
+    top_k_values: [3, 5, 10]
+    high_noise_ratio: 0.9  # Test RAG at 90% noise
     reranking_enabled: false
 
 # Analysis Configuration

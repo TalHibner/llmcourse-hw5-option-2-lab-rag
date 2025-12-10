@@ -42,10 +42,11 @@ env/
 .env
 .env.local
 
-# Data & Results (optional - uncomment if too large)
-# data/chromadb/
-# results/**/*.csv
-# results/**/*.png
+# Data & Results - Track for research reproducibility
+# Note: If these directories become too large (>100MB), consider using Git LFS
+# data/chromadb/  # Uncomment to ignore vector database files
+# results/**/*.csv  # Uncomment to ignore result CSV files
+# results/**/*.png  # Uncomment to ignore result PNG files
 
 # Logs
 logs/
