@@ -1,0 +1,302 @@
+[
+  {
+    "id": "fact_010",
+    "category": "science",
+    "fact_text": "The chemical symbol for Gold is Au.",
+    "question": "What is the chemical symbol for Gold?",
+    "answer": "Au",
+    "metadata": {
+      "complexity": "simple",
+      "entity_primary": "Gold",
+      "entity_secondary": "Au"
+    }
+  },
+  {
+    "id": "fact_024",
+    "category": "literature",
+    "fact_text": "The novel The Great Gatsby was written by F. Scott Fitzgerald.",
+    "question": "Who wrote The Great Gatsby?",
+    "answer": "F. Scott Fitzgerald",
+    "metadata": {
+      "complexity": "simple",
+      "entity_primary": "The Great Gatsby",
+      "entity_secondary": "F. Scott Fitzgerald"
+    }
+  },
+  {
+    "id": "fact_008",
+    "category": "science",
+    "fact_text": "The chemical symbol for Oxygen is O.",
+    "question": "What is the chemical symbol for Oxygen?",
+    "answer": "O",
+    "metadata": {
+      "complexity": "simple",
+      "entity_primary": "Oxygen",
+      "entity_secondary": "O"
+    }
+  },
+  {
+    "id": "fact_004",
+    "category": "geography",
+    "fact_text": "London is the capital of United Kingdom.",
+    "question": "What is the capital of the United Kingdom?",
+    "answer": "United Kingdom",
+    "metadata": {
+      "complexity": "simple",
+      "entity_primary": "London",
+      "entity_secondary": "United Kingdom"
+    }
+  },
+  {
+    "id": "fact_022",
+    "category": "literature",
+    "fact_text": "The novel Pride and Prejudice was written by Jane Austen.",
+    "question": "Who wrote Pride and Prejudice?",
+    "answer": "Jane Austen",
+    "metadata": {
+      "complexity": "simple",
+      "entity_primary": "Pride and Prejudice",
+      "entity_secondary": "Jane Austen"
+    }
+  },
+  {
+    "id": "fact_003",
+    "category": "geography",
+    "fact_text": "Rome is the capital of Italy.",
+    "question": "What is the capital of Italy?",
+    "answer": "Italy",
+    "metadata": {
+      "complexity": "simple",
+      "entity_primary": "Rome",
+      "entity_secondary": "Italy"
+    }
+  },
+  {
+    "id": "fact_017",
+    "category": "mathematics",
+    "fact_text": "Planck's constant is approximately 6.626 × 10^-34.",
+    "question": "What is Planck's constant?",
+    "answer": "6.626 × 10^-34",
+    "metadata": {
+      "complexity": "simple",
+      "entity_primary": "Planck's constant",
+      "entity_secondary": "6.626 × 10^-34"
+    }
+  },
+  {
+    "id": "fact_018",
+    "category": "mathematics",
+    "fact_text": "Square root of 2 is approximately 1.414.",
+    "question": "What is the approximate value of the square root of 2?",
+    "answer": "1.414",
+    "metadata": {
+      "complexity": "simple",
+      "entity_primary": "Square root of 2",
+      "entity_secondary": "1.414"
+    }
+  },
+  {
+    "id": "fact_020",
+    "category": "mathematics",
+    "fact_text": "Euler's number is approximately 2.71828.",
+    "question": "What is the approximate value of Euler's number (e)?",
+    "answer": "2.71828",
+    "metadata": {
+      "complexity": "simple",
+      "entity_primary": "Euler's number",
+      "entity_secondary": "2.71828"
+    }
+  },
+  {
+    "id": "fact_012",
+    "category": "history",
+    "fact_text": "World War II ended in 1945.",
+    "question": "In what year did World War II end?",
+    "answer": "1945",
+    "metadata": {
+      "complexity": "simple",
+      "entity_primary": "World War II",
+      "entity_secondary": "1945"
+    }
+  },
+  {
+    "id": "fact_016",
+    "category": "mathematics",
+    "fact_text": "Pi is approximately 3.14159.",
+    "question": "What is the approximate value of Pi?",
+    "answer": "3.14159",
+    "metadata": {
+      "complexity": "simple",
+      "entity_primary": "Pi",
+      "entity_secondary": "3.14159"
+    }
+  },
+  {
+    "id": "fact_025",
+    "category": "literature",
+    "fact_text": "The novel 1984 was written by George Orwell.",
+    "question": "Who wrote the novel 1984?",
+    "answer": "George Orwell",
+    "metadata": {
+      "complexity": "simple",
+      "entity_primary": "1984",
+      "entity_secondary": "George Orwell"
+    }
+  },
+  {
+    "id": "fact_002",
+    "category": "geography",
+    "fact_text": "Paris is the capital of France.",
+    "question": "What is the capital of France?",
+    "answer": "France",
+    "metadata": {
+      "complexity": "simple",
+      "entity_primary": "Paris",
+      "entity_secondary": "France"
+    }
+  },
+  {
+    "id": "fact_021",
+    "category": "literature",
+    "fact_text": "The novel Moby Dick was written by Herman Melville.",
+    "question": "Who wrote Moby Dick?",
+    "answer": "Herman Melville",
+    "metadata": {
+      "complexity": "simple",
+      "entity_primary": "Moby Dick",
+      "entity_secondary": "Herman Melville"
+    }
+  },
+  {
+    "id": "fact_013",
+    "category": "history",
+    "fact_text": "First Moon Landing was in 1969.",
+    "question": "In what year was the first moon landing?",
+    "answer": "1969",
+    "metadata": {
+      "complexity": "simple",
+      "entity_primary": "First Moon Landing",
+      "entity_secondary": "1969"
+    }
+  },
+  {
+    "id": "fact_007",
+    "category": "science",
+    "fact_text": "The chemical symbol for Helium is He.",
+    "question": "What is the chemical symbol for Helium?",
+    "answer": "He",
+    "metadata": {
+      "complexity": "simple",
+      "entity_primary": "Helium",
+      "entity_secondary": "He"
+    }
+  },
+  {
+    "id": "fact_005",
+    "category": "geography",
+    "fact_text": "Tokyo is the capital of Japan.",
+    "question": "What is the capital of Japan?",
+    "answer": "Japan",
+    "metadata": {
+      "complexity": "simple",
+      "entity_primary": "Tokyo",
+      "entity_secondary": "Japan"
+    }
+  },
+  {
+    "id": "fact_023",
+    "category": "literature",
+    "fact_text": "The novel To Kill a Mockingbird was written by Harper Lee.",
+    "question": "Who wrote To Kill a Mockingbird?",
+    "answer": "Harper Lee",
+    "metadata": {
+      "complexity": "simple",
+      "entity_primary": "To Kill a Mockingbird",
+      "entity_secondary": "Harper Lee"
+    }
+  },
+  {
+    "id": "fact_011",
+    "category": "history",
+    "fact_text": "French Revolution was in 1789.",
+    "question": "In what year did the French Revolution begin?",
+    "answer": "1789",
+    "metadata": {
+      "complexity": "simple",
+      "entity_primary": "French Revolution",
+      "entity_secondary": "1789"
+    }
+  },
+  {
+    "id": "fact_014",
+    "category": "history",
+    "fact_text": "Declaration of Independence was in 1776.",
+    "question": "In what year was the Declaration of Independence signed?",
+    "answer": "1776",
+    "metadata": {
+      "complexity": "simple",
+      "entity_primary": "Declaration of Independence",
+      "entity_secondary": "1776"
+    }
+  },
+  {
+    "id": "fact_006",
+    "category": "science",
+    "fact_text": "The chemical symbol for Iron is Fe.",
+    "question": "What is the chemical symbol for Iron?",
+    "answer": "Fe",
+    "metadata": {
+      "complexity": "simple",
+      "entity_primary": "Iron",
+      "entity_secondary": "Fe"
+    }
+  },
+  {
+    "id": "fact_001",
+    "category": "geography",
+    "fact_text": "Madrid is the capital of Spain.",
+    "question": "What is the capital of Spain?",
+    "answer": "Spain",
+    "metadata": {
+      "complexity": "simple",
+      "entity_primary": "Madrid",
+      "entity_secondary": "Spain"
+    }
+  },
+  {
+    "id": "fact_009",
+    "category": "science",
+    "fact_text": "The chemical symbol for Silver is Ag.",
+    "question": "What is the chemical symbol for Silver?",
+    "answer": "Ag",
+    "metadata": {
+      "complexity": "simple",
+      "entity_primary": "Silver",
+      "entity_secondary": "Ag"
+    }
+  },
+  {
+    "id": "fact_019",
+    "category": "mathematics",
+    "fact_text": "Golden ratio is approximately 1.618.",
+    "question": "What is the approximate value of the golden ratio (phi)?",
+    "answer": "1.618",
+    "metadata": {
+      "complexity": "simple",
+      "entity_primary": "Golden ratio",
+      "entity_secondary": "1.618"
+    }
+  },
+  {
+    "id": "fact_015",
+    "category": "history",
+    "fact_text": "Fall of Berlin Wall was in 1989.",
+    "question": "In what year did the Berlin Wall fall?",
+    "answer": "1989",
+    "metadata": {
+      "complexity": "simple",
+      "entity_primary": "Fall of Berlin Wall",
+      "entity_secondary": "1989"
+    }
+  }
+]

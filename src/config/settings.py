@@ -9,11 +9,15 @@ import yaml
 from pathlib import Path
 from dataclasses import dataclass
 from typing import List, Dict, Any
-from dotenv import load_dotenv
 import os
 
-# Load environment variables from .env file
-load_dotenv()
+# Try to load dotenv, but don't fail if not available
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    # dotenv not available, will use system environment variables only
+    pass
 
 
 @dataclass

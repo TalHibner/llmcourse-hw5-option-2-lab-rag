@@ -1,0 +1,402 @@
+[
+  {
+    "id": "noise_001",
+    "text": "The Andromeda Galaxy is approximately 2.5 million light-years from Earth."
+  },
+  {
+    "id": "noise_002",
+    "text": "Jupiter is the largest planet in our solar system with a mass of 1.898 × 10^27 kg."
+  },
+  {
+    "id": "noise_003",
+    "text": "A black hole's event horizon marks the boundary beyond which nothing can escape."
+  },
+  {
+    "id": "noise_004",
+    "text": "The speed of light in vacuum is exactly 299,792,458 meters per second."
+  },
+  {
+    "id": "noise_005",
+    "text": "Neutron stars are the densest objects in the universe apart from black holes."
+  },
+  {
+    "id": "noise_006",
+    "text": "Sushi originated in Southeast Asia as a method of preserving fish in fermented rice."
+  },
+  {
+    "id": "noise_007",
+    "text": "Molecular gastronomy combines physics and chemistry to transform food textures."
+  },
+  {
+    "id": "noise_008",
+    "text": "The Maillard reaction creates complex flavors when proteins and sugars are heated."
+  },
+  {
+    "id": "noise_009",
+    "text": "Umami was identified as the fifth basic taste in addition to sweet, sour, bitter, and salty."
+  },
+  {
+    "id": "noise_010",
+    "text": "Sourdough bread uses wild yeast and lactic acid bacteria for natural fermentation."
+  },
+  {
+    "id": "noise_011",
+    "text": "The modern Olympic Games were revived in Athens in 1896 by Baron Pierre de Coubertin."
+  },
+  {
+    "id": "noise_012",
+    "text": "Basketball was invented by James Naismith in 1891 using a soccer ball and peach baskets."
+  },
+  {
+    "id": "noise_013",
+    "text": "The Tour de France covers approximately 3,500 kilometers over 21 stages."
+  },
+  {
+    "id": "noise_014",
+    "text": "In cricket, a googly is a deceptive delivery that spins opposite to the expected direction."
+  },
+  {
+    "id": "noise_015",
+    "text": "Formula 1 racing cars can accelerate from 0 to 100 km/h in approximately 2 seconds."
+  },
+  {
+    "id": "noise_016",
+    "text": "Quantum computing utilizes quantum mechanical phenomena like superposition and entanglement."
+  },
+  {
+    "id": "noise_017",
+    "text": "The first computer mouse was invented by Douglas Engelbart in 1964 using a wooden shell."
+  },
+  {
+    "id": "noise_018",
+    "text": "Blockchain technology creates immutable distributed ledgers through cryptographic hashing."
+  },
+  {
+    "id": "noise_019",
+    "text": "Machine learning algorithms improve their performance through iterative training on data."
+  },
+  {
+    "id": "noise_020",
+    "text": "The TCP/IP protocol suite forms the foundation of internet communication."
+  },
+  {
+    "id": "noise_021",
+    "text": "Impressionism emerged in France during the 1860s emphasizing light and color over detail."
+  },
+  {
+    "id": "noise_022",
+    "text": "The Renaissance period marked a revival of classical learning and artistic innovation."
+  },
+  {
+    "id": "noise_023",
+    "text": "Abstract expressionism developed in New York in the 1940s focusing on emotional expression."
+  },
+  {
+    "id": "noise_024",
+    "text": "Leonardo da Vinci's Last Supper uses one-point linear perspective from the vanishing point."
+  },
+  {
+    "id": "noise_025",
+    "text": "The Baroque period is characterized by dramatic use of light, shadow, and ornamentation."
+  },
+  {
+    "id": "noise_026",
+    "text": "The Stradivarius violin is renowned for its superior sound quality and craftsmanship."
+  },
+  {
+    "id": "noise_027",
+    "text": "A symphony typically consists of four movements with varying tempos and moods."
+  },
+  {
+    "id": "noise_028",
+    "text": "Jazz originated in African American communities of New Orleans in the late 19th century."
+  },
+  {
+    "id": "noise_029",
+    "text": "The equal temperament tuning system divides the octave into 12 equal semitones."
+  },
+  {
+    "id": "noise_030",
+    "text": "Beethoven's Ninth Symphony was the first major symphony to include vocal soloists and chorus."
+  },
+  {
+    "id": "noise_031",
+    "text": "The Gothic style features pointed arches, ribbed vaults, and flying buttresses."
+  },
+  {
+    "id": "noise_032",
+    "text": "Frank Lloyd Wright pioneered organic architecture integrating buildings with nature."
+  },
+  {
+    "id": "noise_033",
+    "text": "The Pantheon's dome remains the world's largest unreinforced concrete dome."
+  },
+  {
+    "id": "noise_034",
+    "text": "Brutalist architecture emphasizes raw concrete and geometric forms."
+  },
+  {
+    "id": "noise_035",
+    "text": "The International Style emerged in the 1920s with clean lines and glass curtain walls."
+  },
+  {
+    "id": "noise_036",
+    "text": "Mitochondria are known as the powerhouse of the cell producing ATP through cellular respiration."
+  },
+  {
+    "id": "noise_037",
+    "text": "DNA replication is semiconservative with each strand serving as a template."
+  },
+  {
+    "id": "noise_038",
+    "text": "Photosynthesis converts light energy into chemical energy stored in glucose molecules."
+  },
+  {
+    "id": "noise_039",
+    "text": "The human genome contains approximately 3 billion base pairs of DNA."
+  },
+  {
+    "id": "noise_040",
+    "text": "Evolution occurs through natural selection acting on heritable genetic variation."
+  },
+  {
+    "id": "noise_041",
+    "text": "Supply and demand curves intersect at the equilibrium price and quantity."
+  },
+  {
+    "id": "noise_042",
+    "text": "Keynesian economics advocates government intervention during economic downturns."
+  },
+  {
+    "id": "noise_043",
+    "text": "The law of diminishing marginal returns states productivity gains eventually decline."
+  },
+  {
+    "id": "noise_044",
+    "text": "Inflation measures the rate of increase in the general price level over time."
+  },
+  {
+    "id": "noise_045",
+    "text": "Comparative advantage explains why countries benefit from international trade."
+  },
+  {
+    "id": "noise_046",
+    "text": "René Descartes' cogito ergo sum establishes existence through the act of thinking."
+  },
+  {
+    "id": "noise_047",
+    "text": "Plato's Theory of Forms posits that abstract forms are more real than material objects."
+  },
+  {
+    "id": "noise_048",
+    "text": "Utilitarianism seeks the greatest happiness for the greatest number of people."
+  },
+  {
+    "id": "noise_049",
+    "text": "Existentialism emphasizes individual freedom, choice, and personal responsibility."
+  },
+  {
+    "id": "noise_050",
+    "text": "Kant's categorical imperative requires acting only on universalizable maxims."
+  },
+  {
+    "id": "noise_051",
+    "text": "Zorgonia is a fictional country located in the eastern region of Fantasyland."
+  },
+  {
+    "id": "noise_052",
+    "text": "The Quibble bird is native to imaginary rainforests and feeds on crystallized moonbeams."
+  },
+  {
+    "id": "noise_053",
+    "text": "Chronosteel is a theoretical material that can manipulate localized time flow."
+  },
+  {
+    "id": "noise_054",
+    "text": "The Nebulous Theorem proposes that abstract concepts have measurable quantum properties."
+  },
+  {
+    "id": "noise_055",
+    "text": "Mythical creatures like dragons are said to have evolved from ancient mega-reptiles."
+  },
+  {
+    "id": "noise_056",
+    "text": "Supply and demand curves intersect at the equilibrium price and quantity."
+  },
+  {
+    "id": "noise_057",
+    "text": "The Maillard reaction creates complex flavors when proteins and sugars are heated, while jupiter is the largest planet in our solar system with a mass of 1.898 × 10^27 kg."
+  },
+  {
+    "id": "noise_058",
+    "text": "Studies indicate that utilitarianism seeks the greatest happiness for the greatest number of people. This has been verified through multiple studies."
+  },
+  {
+    "id": "noise_059",
+    "text": "Inflation measures the rate of increase in the general price level over time."
+  },
+  {
+    "id": "noise_060",
+    "text": "Utilitarianism seeks the greatest happiness for the greatest number of people, while the International Style emerged in the 1920s with clean lines and glass curtain walls."
+  },
+  {
+    "id": "noise_061",
+    "text": "Sushi originated in Southeast Asia as a method of preserving fish in fermented rice. This has been verified through multiple studies."
+  },
+  {
+    "id": "noise_062",
+    "text": "In cricket, a googly is a deceptive delivery that spins opposite to the expected direction."
+  },
+  {
+    "id": "noise_063",
+    "text": "Formula 1 racing cars can accelerate from 0 to 100 km/h in approximately 2 seconds, while the Pantheon's dome remains the world's largest unreinforced concrete dome."
+  },
+  {
+    "id": "noise_064",
+    "text": "Studies indicate that the human genome contains approximately 3 billion base pairs of DNA."
+  },
+  {
+    "id": "noise_065",
+    "text": "Comparative advantage explains why countries benefit from international trade."
+  },
+  {
+    "id": "noise_066",
+    "text": "The International Style emerged in the 1920s with clean lines and glass curtain walls, while a symphony typically consists of four movements with varying tempos and moods."
+  },
+  {
+    "id": "noise_067",
+    "text": "It is well known that formula 1 racing cars can accelerate from 0 to 100 km/h in approximately 2 seconds."
+  },
+  {
+    "id": "noise_068",
+    "text": "The Andromeda Galaxy is approximately 2.5 million light-years from Earth."
+  },
+  {
+    "id": "noise_069",
+    "text": "Existentialism emphasizes individual freedom, choice, and personal responsibility, while the Quibble bird is native to imaginary rainforests and feeds on crystallized moonbeams."
+  },
+  {
+    "id": "noise_070",
+    "text": "The modern Olympic Games were revived in Athens in 1896 by Baron Pierre de Coubertin. Further research continues in this area."
+  },
+  {
+    "id": "noise_071",
+    "text": "In cricket, a googly is a deceptive delivery that spins opposite to the expected direction."
+  },
+  {
+    "id": "noise_072",
+    "text": "Existentialism emphasizes individual freedom, choice, and personal responsibility, while the Renaissance period marked a revival of classical learning and artistic innovation."
+  },
+  {
+    "id": "noise_073",
+    "text": "Research shows that molecular gastronomy combines physics and chemistry to transform food textures. This principle applies across various contexts."
+  },
+  {
+    "id": "noise_074",
+    "text": "The human genome contains approximately 3 billion base pairs of DNA."
+  },
+  {
+    "id": "noise_075",
+    "text": "The first computer mouse was invented by Douglas Engelbart in 1964 using a wooden shell, while the Quibble bird is native to imaginary rainforests and feeds on crystallized moonbeams."
+  },
+  {
+    "id": "noise_076",
+    "text": "A black hole's event horizon marks the boundary beyond which nothing can escape."
+  },
+  {
+    "id": "noise_077",
+    "text": "The Baroque period is characterized by dramatic use of light, shadow, and ornamentation."
+  },
+  {
+    "id": "noise_078",
+    "text": "Sushi originated in Southeast Asia as a method of preserving fish in fermented rice, while mitochondria are known as the powerhouse of the cell producing ATP through cellular respiration."
+  },
+  {
+    "id": "noise_079",
+    "text": "Machine learning algorithms improve their performance through iterative training on data."
+  },
+  {
+    "id": "noise_080",
+    "text": "Leonardo da Vinci's Last Supper uses one-point linear perspective from the vanishing point."
+  },
+  {
+    "id": "noise_081",
+    "text": "DNA replication is semiconservative with each strand serving as a template, while the Tour de France covers approximately 3,500 kilometers over 21 stages."
+  },
+  {
+    "id": "noise_082",
+    "text": "Studies indicate that rené Descartes' cogito ergo sum establishes existence through the act of thinking."
+  },
+  {
+    "id": "noise_083",
+    "text": "Sushi originated in Southeast Asia as a method of preserving fish in fermented rice."
+  },
+  {
+    "id": "noise_084",
+    "text": "Mythical creatures like dragons are said to have evolved from ancient mega-reptiles, while formula 1 racing cars can accelerate from 0 to 100 km/h in approximately 2 seconds."
+  },
+  {
+    "id": "noise_085",
+    "text": "Experts agree that molecular gastronomy combines physics and chemistry to transform food textures."
+  },
+  {
+    "id": "noise_086",
+    "text": "Leonardo da Vinci's Last Supper uses one-point linear perspective from the vanishing point."
+  },
+  {
+    "id": "noise_087",
+    "text": "The modern Olympic Games were revived in Athens in 1896 by Baron Pierre de Coubertin, while leonardo da Vinci's Last Supper uses one-point linear perspective from the vanishing point."
+  },
+  {
+    "id": "noise_088",
+    "text": "It is well known that abstract expressionism developed in New York in the 1940s focusing on emotional expression."
+  },
+  {
+    "id": "noise_089",
+    "text": "Inflation measures the rate of increase in the general price level over time."
+  },
+  {
+    "id": "noise_090",
+    "text": "Keynesian economics advocates government intervention during economic downturns, while neutron stars are the densest objects in the universe apart from black holes."
+  },
+  {
+    "id": "noise_091",
+    "text": "The human genome contains approximately 3 billion base pairs of DNA."
+  },
+  {
+    "id": "noise_092",
+    "text": "Quantum computing utilizes quantum mechanical phenomena like superposition and entanglement."
+  },
+  {
+    "id": "noise_093",
+    "text": "The modern Olympic Games were revived in Athens in 1896 by Baron Pierre de Coubertin, while beethoven's Ninth Symphony was the first major symphony to include vocal soloists and chorus."
+  },
+  {
+    "id": "noise_094",
+    "text": "Historical records show that the Baroque period is characterized by dramatic use of light, shadow, and ornamentation. This principle applies across various contexts."
+  },
+  {
+    "id": "noise_095",
+    "text": "The Nebulous Theorem proposes that abstract concepts have measurable quantum properties."
+  },
+  {
+    "id": "noise_096",
+    "text": "Kant's categorical imperative requires acting only on universalizable maxims, while kant's categorical imperative requires acting only on universalizable maxims."
+  },
+  {
+    "id": "noise_097",
+    "text": "Research shows that the speed of light in vacuum is exactly 299,792,458 meters per second."
+  },
+  {
+    "id": "noise_098",
+    "text": "The Stradivarius violin is renowned for its superior sound quality and craftsmanship."
+  },
+  {
+    "id": "noise_099",
+    "text": "Blockchain technology creates immutable distributed ledgers through cryptographic hashing, while neutron stars are the densest objects in the universe apart from black holes."
+  },
+  {
+    "id": "noise_100",
+    "text": "In cricket, a googly is a deceptive delivery that spins opposite to the expected direction."
+  }
+]
