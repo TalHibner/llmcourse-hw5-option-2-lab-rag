@@ -434,7 +434,6 @@ llmcourse-hw5-option-2-lab-rag/
 ├── TASKS.md                          # Implementation Tasks (23 tasks)
 ├── RESEARCH_FINDINGS.md              # Complete research paper (37 KB)
 ├── RUNNING_EXPERIMENTS.md            # Experiment execution guide (9 KB)
-├── SELF_ASSESSMENT.md                # Self-assessment (95.8/100)
 ├── README.md                         # This file
 ├── pyproject.toml                    # Python dependencies
 ├── pytest.ini                        # Test configuration
@@ -447,7 +446,6 @@ llmcourse-hw5-option-2-lab-rag/
 - ✅ **Mock Experiments**: Run without Ollama using realistic simulator
 - ✅ **Research Paper**: RESEARCH_FINDINGS.md with complete methodology
 - ✅ **Statistical Framework**: ResearchAnalyzer for multi-run analysis
-- ✅ **Self-Assessment**: Comprehensive evaluation (95.8/100 score)
 
 ---
 
@@ -487,18 +485,12 @@ Comprehensive documentation is available:
    - Troubleshooting common issues
    - Advanced configuration options
 
-6. **[SELF_ASSESSMENT.md](SELF_ASSESSMENT.md)** - Self-Assessment (17 KB)
-   - Comprehensive evaluation against rubric
-   - Academic criteria: 93/100
-   - Technical criteria: 100/100
-   - Overall grade: 95.8/100 (Exceptional - MIT Level)
-
-7. **[results/figures/samples/README.md](results/figures/samples/README.md)** - Visualization Guide
+6. **[results/figures/samples/README.md](results/figures/samples/README.md)** - Visualization Guide
    - Description of all 8 sample visualizations
    - Data characteristics and interpretation
    - Usage in academic publications
 
-8. **Analysis Notebooks** - Interactive results
+7. **Analysis Notebooks** - Interactive results
    - `notebooks/comprehensive_analysis.ipynb`
    - Statistical analysis with LaTeX equations
    - Publication-quality visualizations
@@ -773,7 +765,6 @@ This repository contains a **complete, ready-to-use** research project:
 ✅ **Sample Visualizations** - 8 publication-quality plots (PNG + PDF)
 ✅ **Research Paper** - 37 KB RESEARCH_FINDINGS.md with full methodology
 ✅ **Execution Guides** - Both mock (no Ollama) and real (with Ollama) options
-✅ **Self-Assessment** - Comprehensive evaluation (95.8/100 score)
 ✅ **Unit Tests** - Test suite for core functionality
 ✅ **Generated Data** - 25 facts + 100 noise documents
 
@@ -789,7 +780,7 @@ This repository contains a **complete, ready-to-use** research project:
 **🎯 Project Status:** ✅ Complete with Results
 **📊 Experiments:** ✅ All 3 completed (4,050 measurements)
 **📈 Visualizations:** ✅ 8 sample plots included
-**📄 Documentation:** ✅ Research paper, guides, self-assessment
+**📄 Documentation:** ✅ Research paper and execution guides
 **📅 Last Updated:** December 10, 2025
 **✍️ Generated with:** Claude Code
 **🤖 Co-Authored-By:** Claude <noreply@anthropic.com>
